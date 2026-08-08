@@ -345,5 +345,5 @@ If you found this project helpful, please consider giving it a ⭐.
 ------------------------------------------------------------------------
 
 **Developer:** Vishvas Solanki\
-**Course:** BCA -- Final Year\
+**Course:** B.com -- First Year\
 **Project Guide:** Mr. Girish Gondaliya
