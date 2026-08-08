@@ -188,6 +188,7 @@ Average : 50.0
 ## 📸 Project Screenshots
 
 ###main menu
+
 (<img width="460" height="365" alt="WhatsApp Image 2026-08-08 at 13 19 33" src="https://github.com/user-attachments/assets/0d1eaef2-397a-4d53-9dfa-d02fe3fdd36f" />)
 
 ## 🧠 Python Concepts Demonstrated
