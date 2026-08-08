@@ -187,9 +187,70 @@ Average : 50.0
 
 ## 📸 Project Screenshots
 
-###main menu
+###1.🏠main menu
 
-(<img width="460" height="365" alt="WhatsApp Image 2026-08-08 at 13 19 33" src="https://github.com/user-attachments/assets/0d1eaef2-397a-4d53-9dfa-d02fe3fdd36f" />)
+<img width="460" height="365" alt="WhatsApp Image 2026-08-08 at 13 19 33" src="https://github.com/user-attachments/assets/0d1eaef2-397a-4d53-9dfa-d02fe3fdd36f" />
+
+###2.📥 input 1d
+
+<img width="467" height="128" alt="WhatsApp Image 2026-08-08 at 13 19 34" src="https://github.com/user-attachments/assets/a23913d7-2113-4618-97f0-1f4b2c812478" />
+
+
+###3.📥 input 2d
+
+<img width="478" height="191" alt="WhatsApp Image 2026-08-08 at 13 19 38" src="https://github.com/user-attachments/assets/e88a8583-01ed-4a2f-8783-d5b55de5e9f0" />
+
+###4.📋display data
+
+<img width="376" height="159" alt="WhatsApp Image 2026-08-08 at 13 19 38 copy" src="https://github.com/user-attachments/assets/2a145255-5cf7-4d33-8643-42f7f786e052" />
+
+###5.📊summary
+
+<img width="384" height="163" alt="WhatsApp Image 2026-08-08 at 13 19 39" src="https://github.com/user-attachments/assets/11ea462d-733a-41ba-aa1c-0eed7719340b" />
+
+###6.📈average
+
+<img width="233" height="128" alt="image" src="https://github.com/user-attachments/assets/7bf73f20-1f94-4914-b933-c349e8f5dd39" />
+
+###7.🔍duplicate
+
+<img width="276" height="128" alt="image" src="https://github.com/user-attachments/assets/1f2e3f82-6f04-4489-9e42-be1d114e807d" />
+
+
+###8.⭐unique
+
+<img width="496" height="128" alt="image" src="https://github.com/user-attachments/assets/41120fbc-ac19-488f-8bce-6d30134c373c" />
+
+###9.🧩*args
+
+<img width="335" height="128" alt="image" src="https://github.com/user-attachments/assets/8609b913-c013-49f3-a4d7-ecc8e1ad0227" />
+
+###10.📑*kwargs
+
+<img width="487" height="202" alt="image" src="https://github.com/user-attachments/assets/216c0038-751a-46c4-a7bb-407543119a7a" />
+
+###10.🔁factorial
+
+<img width="496" height="128" alt="image" src="https://github.com/user-attachments/assets/28fd013c-59e2-4c26-ad5e-8270c51a91e7" />
+
+###11.⚡lambda 
+
+<img width="357" height="141" alt="image" src="https://github.com/user-attachments/assets/45dbfe46-ccc5-41ee-913e-5a4a11e7922e" />
+
+
+###12.🔃sorting
+
+<img width="634" height="128" alt="image" src="https://github.com/user-attachments/assets/a9519937-6a39-4270-9575-251dadba74a2" />
+
+###13.📊statistics
+
+<img width="407" height="163" alt="image" src="https://github.com/user-attachments/assets/a003090d-bf22-4b02-b941-01bd113dabdc" />
+
+###15.🚪exit
+
+<img width="345" height="106" alt="image" src="https://github.com/user-attachments/assets/1af79f59-b431-410c-b722-abd801cbdfa5" />
+
+
 
 ## 🧠 Python Concepts Demonstrated
 
