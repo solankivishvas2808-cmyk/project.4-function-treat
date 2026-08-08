@@ -187,28 +187,25 @@ Average : 50.0
 
 ## 📸 Project Screenshots
 
-### Dataset Statistics
-
-
-### Average Calculation
-
-![Average Calculation](screenshots/screen_2.jpg)
-
-### Duplicate Values
-
-![Duplicate Values](screenshots/screen_3.jpg)
-
-### Unique Values
-
-![Unique Values](screenshots/screen_4.jpg)
-
-### `*args` Demonstration
-
-![Args Demonstration](screenshots/screen_5.jpg)
-
-### `*args` Output
-
-![Args Output](screenshots/screen_6.jpg)
+📁 screenshots
+      ├── 📷 01_main_menu.png
+      ├── 📷 02_input_1d.png
+      ├── 📷 03_input_2d.png
+      ├── 📷 04_display_data.png
+      ├── 📷 05_summary.png
+      ├── 📷 06_average.png
+      ├── 📷 07_duplicates.png
+      ├── 📷 08_unique.png
+      ├── 📷 09_args.png
+      ├── 📷 10_kwargs.png
+      ├── 📷 11_factorial.png
+      ├── 📷 12_lambda_filter.png
+      ├── 📷 13_lambda_map.png
+      ├── 📷 14_sort_1d.png
+      ├── 📷 15_sort_2d.png
+      ├── 📷 16_statistics.png
+      ├── 📷 17_documentation.png
+      └── 📷 18_exit.png
 
 ## 🧠 Python Concepts Demonstrated
 
